@@ -1,0 +1,16 @@
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\bin\Debug\net8.0\atmDL.deps.json
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\bin\Debug\net8.0\atmDL.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\bin\Debug\net8.0\atmDL.pdb
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\bin\Debug\net8.0\ATMMODEL.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\bin\Debug\net8.0\ATMMODEL.pdb
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\obj\Debug\net8.0\atmDL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\obj\Debug\net8.0\atmDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\obj\Debug\net8.0\atmDL.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\obj\Debug\net8.0\atmDL.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\obj\Debug\net8.0\atmDL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\obj\Debug\net8.0\atmDL.csproj.Up2Date
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\obj\Debug\net8.0\atmDL.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\obj\Debug\net8.0\refint\atmDL.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\obj\Debug\net8.0\atmDL.pdb
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\obj\Debug\net8.0\ref\atmDL.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\atmDL\obj\Debug\net8.0\atmDL.sourcelink.json

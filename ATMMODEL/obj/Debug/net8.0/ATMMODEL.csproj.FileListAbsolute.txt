@@ -1,0 +1,12 @@
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\ATMMODEL\bin\Debug\net8.0\ATMMODEL.deps.json
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\ATMMODEL\bin\Debug\net8.0\ATMMODEL.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\ATMMODEL\bin\Debug\net8.0\ATMMODEL.pdb
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\ATMMODEL\obj\Debug\net8.0\ATMMODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\ATMMODEL\obj\Debug\net8.0\ATMMODEL.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\ATMMODEL\obj\Debug\net8.0\ATMMODEL.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\ATMMODEL\obj\Debug\net8.0\ATMMODEL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\ATMMODEL\obj\Debug\net8.0\ATMMODEL.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\ATMMODEL\obj\Debug\net8.0\refint\ATMMODEL.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\ATMMODEL\obj\Debug\net8.0\ATMMODEL.pdb
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\ATMMODEL\obj\Debug\net8.0\ref\ATMMODEL.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATM\ATMMODEL\obj\Debug\net8.0\ATMMODEL.sourcelink.json
